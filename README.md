@@ -1,19 +1,25 @@
 # github-newby
-I am Sam Hansen
+I am Sandra Hansen
 ## About Me
--**Sandra Hansen:**
+-**Affectionately known as Sam Han:**
 
--**62 years young:**
+-**62 the new 42:**
 
--**Live in Nambucca Heads, NSW:**
+-**Lives in Nambucca Heads, NSW:**
 
 ### Interests
 
--**Travel:**
+-**Nature Nurture:**
+
+-**Learning:**
+
+#### Hobbies
+
+_**Art:**
 
 -**cooking:**
 
--**Learning:**
+-**Music:**
 
 
 
